@@ -24,6 +24,7 @@ setup(
         'Multi-process',
         "Multi-thread",
         "threading",
+        "Async"
     ],
     classifiers=[
         "Development Status :: 5 - Production/Stable",
